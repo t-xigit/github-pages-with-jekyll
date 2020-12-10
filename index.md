@@ -1,3 +1,9 @@
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
+
+Some extra text
+
+## Second Header
+  * Some lust
+  * Some more items 
